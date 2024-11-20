@@ -18,7 +18,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/prathamesh-jadhav-3a13b3285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathameshjadhav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prathameshjadh" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/CodeChef-Logo.png" alt="prathameshjadhav" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prathameshjadhav" height="30" width="40" />
 </a>
   <a href="https://leetcode.com/u/prathameshjadh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathameshjadhav" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/jadhavprathame16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathameshjadhav" height="30" width="40" /></a>
