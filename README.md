@@ -2,7 +2,7 @@
 <h3 align="center">A passionate technocrat who’s always seeking opportunities to apply learning in the real world. If you're here, take a look at my repositories on GitHub!</h3>
 
 <picture>
-  <img src="212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" align="right" width="35%" alt="Image">
+  <img src="212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" align="right" width="35%" alt="Image">
 </picture>
 
 - 🌱 I’m currently learning more about **Full Stack Development, Open Source, and Data Structures and Algorithms.**
