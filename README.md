@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning more about **Full Stack Development, Open Source, and Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on **Projects based on React and Java.**
 - 🏆 Goal: **Contribute more to open-source projects.**
-- 💬 Ask me about **Frontend Development, DSA, Java Full Stack Development**
+- 💬 Ask me about **Frontend Development, DSA, Java Full Stack Development,Spring FrameWork,Spring Boot**
 - 📫 How to reach me: **prathamesh.jadhav-0198@gmail.com**
 - ⚡ **Would love to connect with like-minded people.**
 
