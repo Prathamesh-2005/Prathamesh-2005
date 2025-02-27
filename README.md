@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Prathamesh Jadhav! 👋</h1>
+<h1 align="center">Hi there, I'm Prathamesh Sahebrav Jadhav! 👋</h1>
 <h3 align="center">A passionate technocrat who’s always seeking opportunities to apply learning in the real world. If you're here, take a look at my repositories on GitHub!</h3>
 
 <picture>
