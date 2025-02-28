@@ -21,7 +21,7 @@
   <a href="https://leetcode.com/u/prathameshjadh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathameshjadhav" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/jadhavprathame16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathameshjadhav" height="30" width="40"/></a>
   <a href="https://www.geeksforgeeks.org/user/prathameshj2vvb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathameshjadhav" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/JadhavPrath" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces_logo_white.svg" alt="codeforces" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/JadhavPrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="JadhavPrath" height="30" width="40" /></a>
 </p>
 
 <br>
