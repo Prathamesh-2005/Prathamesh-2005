@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Prathamesh Sahebrav Jadhav! 👋</h1>
+<h1 align="center" class="snake-text">Hi there, I'm Prathamesh Sahebrav Jadhav! 👋</h1>
 <h3 align="center">A passionate technocrat who’s always seeking opportunities to apply learning in the real world. If you're here, take a look at my repositories on GitHub!</h3>
 
 <picture>
@@ -38,7 +38,9 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-boot.svg" alt="spring boot" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-boot.svg" alt="spring boot" width="50" height="50"/>
+  </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/></a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/></a>
 </p>
@@ -46,3 +48,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prathamesh-2005&show_icons=true&locale=en&layout=compact" alt="Prathamesh-2005" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&locale=en" alt="Prathamesh-2005" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-2005&" alt="Prathamesh-2005" /></p>
+
