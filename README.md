@@ -50,33 +50,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&locale=en" alt="Prathamesh-2005" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-2005&" alt="Prathamesh-2005" /></p>
 
-<!-- Snake Effect CSS -->
-<style>
-  @keyframes snakeEffect {
-    0% {
-      color: #FF5733;
-      transform: scale(1);
-    }
-    25% {
-      color: #33FF57;
-      transform: scale(1.1);
-    }
-    50% {
-      color: #3357FF;
-      transform: scale(1);
-    }
-    75% {
-      color: #FF5733;
-      transform: scale(1.1);
-    }
-    100% {
-      color: #33FF57;
-      transform: scale(1);
-    }
-  }
 
-  .snake-text {
-    animation: snakeEffect 5s infinite;
-    font-weight: bold;
-  }
-</style>
