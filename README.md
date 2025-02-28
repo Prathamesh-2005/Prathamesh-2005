@@ -57,17 +57,26 @@
       color: #FF5733;
       transform: scale(1);
     }
-    50% {
+    25% {
       color: #33FF57;
       transform: scale(1.1);
     }
-    100% {
+    50% {
       color: #3357FF;
+      transform: scale(1);
+    }
+    75% {
+      color: #FF5733;
+      transform: scale(1.1);
+    }
+    100% {
+      color: #33FF57;
       transform: scale(1);
     }
   }
 
   .snake-text {
-    animation: snakeEffect 3s infinite;
+    animation: snakeEffect 5s infinite;
+    font-weight: bold;
   }
 </style>
