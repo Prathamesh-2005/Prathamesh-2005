@@ -1,4 +1,4 @@
-<h1 align="center" class="snake-text">Hi there, I'm Prathamesh Sahebrav Jadhav! 👋</h1>
+[[<h1 align="center" class="snake-text">Hi there, I'm Prathamesh Sahebrav Jadhav! 👋</h1>
 <h3 align="center">A passionate technocrat who’s always seeking opportunities to apply learning in the real world. If you're here, take a look at my repositories on GitHub!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh-2005&label=Profile%20views&color=0e75b6&style=flat" alt="vishal1677" /> </p>
 
@@ -54,6 +54,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prathamesh-2005&show_icons=true&locale=en&layout=compact" alt="Prathamesh-2005" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&locale=en" alt="Prathamesh-2005" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-2005&" alt="Prathamesh-2005" /></p>
-
-
-
