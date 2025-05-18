@@ -56,7 +56,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-2005&" alt="Prathamesh-2005" /></p>
 
 <!-- Add snake animation here -->
+<!-- GitHub contribution snake animation -->
 <p align="center">
   <img src="https://github.com/Prathamesh-2005/Prathamesh-2005/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
+
 
