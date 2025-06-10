@@ -1,56 +1,165 @@
-<h1 align="center" class="snake-text">Hi there, I'm Prathamesh Sahebrav Jadhav! 👋</h1>
-<h3 align="center">A passionate technocrat who’s always seeking opportunities to apply learning in the real world. If you're here, take a look at my repositories on GitHub!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh-2005&label=Profile%20views&color=0e75b6&style=flat" alt="vishal1677" /> </p>
+<div align="center">
+  
+# 👋 Hi, I'm **Prathamesh Sahebrav Jadhav**
 
-<picture>
-  <img src="212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" align="right" width="35%" alt="Image">
-</picture>
+### 🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast
 
-- 🌱 I’m currently learning more about **Full Stack Development, Open Source, and Data Structures and Algorithms.**
-- 👯 I’m looking to collaborate on **Projects based on React and Java.**
-- 🏆 Goal: **Contribute more to open-source projects.**
-- 💬 Ask me about **Frontend Development, DSA, Java Full Stack Development, Spring Framework, Spring Boot**
-- 📫 How to reach me: **prathamesh.jadhav-0198@gmail.com**
-- ⚡ **Would love to connect with like-minded people.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Always+learning+new+technologies;Open+to+collaboration!" alt="Typing SVG" />
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=Prathamesh-2005&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/prathamesh-jadhav-3a13b3285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathameshjadhav" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/prathameshjadh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prathameshjadhav" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/prathameshjadh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathameshjadhav" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/jadhavprathame16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathameshjadhav" height="30" width="40"/></a>
-  <a href="https://www.geeksforgeeks.org/user/prathameshj2vvb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathameshjadhav" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/JadhavPrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="JadhavPrath" height="30" width="40" /></a>
-</p>
+</div>
 
-<br>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color: white; border-radius: 6px;"/></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" alt="supabase" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="50" height="50"/></a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/></a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/></a>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="200" />
 
+## 🎯 **About Me**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prathamesh-2005&show_icons=true&locale=en&layout=compact" alt="Prathamesh-2005" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&locale=en" alt="Prathamesh-2005" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-2005&" alt="Prathamesh-2005" /></
+```javascript
+const prathamesh = {
+    code: ["Java", "JavaScript", "Python", "C++"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
+        backEnd: ["Spring Boot", "Spring Framework", "Node.js"],
+        databases: ["MySQL", "PostgreSQL", "Supabase"],
+        tools: ["Git", "Maven", "Postman", "Hibernate"]
+    },
+    currentFocus: "Building scalable web applications",
+    challenge: "Contributing more to open source projects"
+}
+```
+
+- 🌱 **Currently Learning:** Advanced System Design & Microservices Architecture
+- 👯 **Looking to Collaborate:** React & Java Full Stack Projects
+- 🎯 **2024 Goal:** Contribute to 50+ open source repositories
+- 💡 **Ask Me About:** Frontend Development, DSA, Spring Boot, React
+- 📧 **Reach Me:** prathamesh.jadhav-0198@gmail.com
+- ⚡ **Fun Fact:** I solve coding problems for breakfast! 🥞
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-jadhav-3a13b3285/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prathameshjadh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prathameshjadh/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jadhavprathame16)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/prathameshj2vvb/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/JadhavPrath)
+
+</div>
+
+---
+
+## 🛠️ **Tech Stack**
+
+<div align="center">
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Backend Development**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-2005&theme=radical&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&layout=compact&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathamesh-2005&theme=radical" />
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prathamesh-2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 🎯 **Coding Profiles**
+
+<div align="center">
+
+| Platform | Profile | Stats |
+|----------|---------|-------|
+| 🟡 **LeetCode** | [@prathameshjadh](https://leetcode.com/u/prathameshjadh/) | ![LeetCode Stats](https://leetcard.jacoblin.cool/prathameshjadh?theme=dark&font=source_code_pro) |
+| 🟤 **CodeChef** | [@prathameshjadh](https://www.codechef.com/users/prathameshjadh) | Actively solving problems |
+| 🟢 **HackerRank** | [@jadhavprathame16](https://www.hackerrank.com/profile/jadhavprathame16) | Multiple certifications |
+
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+<a href="https://github.com/Prathamesh-2005">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prathamesh-2005&repo=your-repo-name&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/Prathamesh-2005">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prathamesh-2005&repo=another-repo&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-2005&custom_title=Prathamesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00d9ff&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💫 **"Code is like humor. When you have to explain it, it's bad."** 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+
+**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+
+</div>
