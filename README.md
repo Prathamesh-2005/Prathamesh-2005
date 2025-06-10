@@ -119,26 +119,17 @@ const prathamesh = {
 
 <div align="center">
 
-| Platform | Profile | Stats |
-|----------|---------|-------|
-| 🟡 **LeetCode** | [@prathameshjadh](https://leetcode.com/u/prathameshjadh/) | ![LeetCode Stats](https://leetcard.jacoblin.cool/prathameshjadh?theme=dark&font=source_code_pro) |
-| 🟤 **CodeChef** | [@prathameshjadh](https://www.codechef.com/users/prathameshjadh) | Actively solving problems |
-| 🟢 **HackerRank** | [@jadhavprathame16](https://www.hackerrank.com/profile/jadhavprathame16) | Multiple certifications |
+### 🟡 **LeetCode**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/prathameshjadh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/prathameshjadh/)
 
-</div>
+### 🟤 **CodeChef**
+[![CodeChef Profile](https://cp-logo.vercel.app/codechef/prathameshjadh?logo=true)](https://www.codechef.com/users/prathameshjadh)
 
----
+### 🔵 **Codeforces**
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=JadhavPrath&theme=dark)](https://codeforces.com/profile/JadhavPrath)
 
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-<a href="https://github.com/Prathamesh-2005">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prathamesh-2005&repo=your-repo-name&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Prathamesh-2005">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prathamesh-2005&repo=another-repo&theme=radical&hide_border=true" />
-</a>
+### 🟢 **HackerRank**
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Multiple%20Certifications-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jadhavprathame16)
 
 </div>
 
