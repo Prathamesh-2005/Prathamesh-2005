@@ -30,12 +30,12 @@ const prathamesh = {
 }
 ```
 
-- 🌱 **Currently Learning:** Advanced System Design & Microservices Architecture
-- 👯 **Looking to Collaborate:** React & Java Full Stack Projects
-- 🎯 **2024 Goal:** Contribute to 50+ open source repositories
-- 💡 **Ask Me About:** Frontend Development, DSA, Spring Boot, React
-- 📧 **Reach Me:** prathamesh.jadhav-0198@gmail.com
-- ⚡ **Fun Fact:** I solve coding problems for breakfast! 🥞
+- 🌱 I’m currently learning more about **Full Stack Development, Open Source, and Data Structures and Algorithms.**
+- 👯 I’m looking to collaborate on **Projects based on React,Nextjs  and Java.**
+- 🏆 Goal: **Contribute more to open-source projects.**
+- 💬 Ask me about **Frontend Development, DSA, Java Full Stack Development, Spring Framework, Spring Boot**
+- 📫 How to reach me: **prathamesh.jadhav-0198@gmail.com**
+- ⚡ **Would love to connect with like-minded people.**
 
 ---
 
