@@ -95,7 +95,7 @@ const prathamesh = {
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="200" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhiZGx6Mzd1aTU0a2JxOXFxcnRvcGV1YXM3OG9vazN2ZW5vOGl5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" width="500" height="200" />
 </div>
 
 ---
