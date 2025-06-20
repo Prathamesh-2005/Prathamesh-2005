@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="200" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="250" />
 
 ## 🎯 **About Me**
 
@@ -26,15 +26,17 @@ const prathamesh = {
         tools: ["Git", "Maven", "Postman", "Hibernate"]
     },
     currentFocus: "Building scalable web applications",
-    challenge: "Contributing more to open source projects"
+    challenge: "Contributing more to open source projects",
+    portfolio: "https://prathameshjadhavportfolio.vercel.app/"
 }
 ```
 
-- 🌱 I’m currently learning more about **Full Stack Development, Open Source, and Data Structures and Algorithms.**
-- 👯 I’m looking to collaborate on **Projects based on React,Nextjs  and Java.**
+- 🌱 I'm currently learning more about **Full Stack Development, Open Source, and Data Structures and Algorithms.**
+- 👯 I'm looking to collaborate on **Projects based on React,Nextjs  and Java.**
 - 🏆 Goal: **Contribute more to open-source projects.**
 - 💬 Ask me about **Frontend Development, DSA, Java Full Stack Development, Spring Framework, Spring Boot**
 - 📫 How to reach me: **prathamesh.jadhav-0198@gmail.com**
+- 🌐 Check out my portfolio: **[prathameshjadhavportfolio.vercel.app](https://prathameshjadhavportfolio.vercel.app/)**
 - ⚡ **Would love to connect with like-minded people.**
 
 ---
@@ -43,6 +45,7 @@ const prathamesh = {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://prathameshjadhavportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-jadhav-3a13b3285/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prathameshjadh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prathameshjadh/)
@@ -87,6 +90,12 @@ const prathamesh = {
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="200" />
 </div>
 
 ---
@@ -146,6 +155,8 @@ const prathamesh = {
 ---
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
   
 ### 💫 **"Code is like humor. When you have to explain it, it's bad."** 
 
