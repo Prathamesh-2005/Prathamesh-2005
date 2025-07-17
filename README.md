@@ -109,20 +109,6 @@ const prathamesh = {
 
 <div align="center">
 
-## 🎨 **Tech Stack Visualization**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathamesh-2005/Prathamesh-2005/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathamesh-2005/Prathamesh-2005/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prathamesh-2005/Prathamesh-2005/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhiZGx6Mzd1aTU0a2JxOXFxcnRvcGV1YXM3OG9vazN2ZW5vOGl5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" width="400" style="max-width: 100%; height: auto;" />
-
-</div>
-
----
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
