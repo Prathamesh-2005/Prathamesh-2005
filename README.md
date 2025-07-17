@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm **Prathamesh Sahebrav Jadhav**
 
 ### 🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast
@@ -57,44 +57,68 @@ const prathamesh = {
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack Arsenal**
 
 <div align="center">
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### **Programming Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++"/>
+</p>
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### **Frontend Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" title="TailwindCSS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap"/>
+</p>
 
-### **Backend Development**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+### **Backend & Framework**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" title="Spring Framework"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate" title="Hibernate"/>
+</p>
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### **Databases & Cloud**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase"/>
+</p>
 
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### **Tools & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" title="Maven"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+</p>
 
 </div>
 
 ---
+
 <div align="center">
+
+## 🎨 **Tech Stack Visualization**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathamesh-2005/Prathamesh-2005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathamesh-2005/Prathamesh-2005/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prathamesh-2005/Prathamesh-2005/output/github-contribution-grid-snake.svg">
+</picture>
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhiZGx6Mzd1aTU0a2JxOXFxcnRvcGV1YXM3OG9vazN2ZW5vOGl5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" width="400" style="max-width: 100%; height: auto;" />
+
 </div>
 
 ---
@@ -154,6 +178,23 @@ const prathamesh = {
 ---
 
 <div align="center">
+
+## 🌟 **Fun Facts**
+
+<table>
+  <tr>
+    <td><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></td>
+    <td><strong>Code Editor:</strong> VS Code & IntelliJ IDEA</td>
+  </tr>
+  <tr>
+    <td><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></td>
+    <td><strong>Favorite Language:</strong> Java & JavaScript</td>
+  </tr>
+  <tr>
+    <td><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"></td>
+    <td><strong>Currently Learning:</strong> Advanced Spring Security & Microservices</td>
+  </tr>
+</table>
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
   
