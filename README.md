@@ -178,7 +178,7 @@ const prathamesh = {
   </tr>
   <tr>
     <td><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"></td>
-    <td><strong>Currently Learning:</strong> Advanced Spring Security & Microservices</td>
+    <td><strong>Currently Learning:</strong> System Design & Microservices</td>
   </tr>
 </table>
 
