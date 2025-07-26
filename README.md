@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="250" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="250" />
 
 ## 🎯 **About Me**
 
@@ -72,7 +72,13 @@ const prathamesh = {
 <td align="center" width="50%">
 
 ### 🏅 **CodeChef Journey**
-[![CodeChef Profile](https://cp-logo.vercel.app/codechef/prathameshjadh?logo=true)](https://www.codechef.com/users/prathameshjadh)
+<a href="https://www.codechef.com/users/prathameshjadh" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/Rating-Updated%20Weekly-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
+<br>
+<img src="https://img.shields.io/badge/Contests-Participated-blue?style=for-the-badge&logo=trophy&logoColor=white" alt="Contest Participation"/>
 
 </td>
 </tr>
