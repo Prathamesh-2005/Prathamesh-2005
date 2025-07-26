@@ -57,11 +57,52 @@ const prathamesh = {
 
 ---
 
-## 🛠️ **Tech Stack Arsenal**
+## 💻 **Competitive Programming Journey**
 
 <div align="center">
 
-### **Programming Languages**
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔥 **LeetCode Progress**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/prathameshjadh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/prathameshjadh/)
+
+</td>
+<td align="center" width="50%">
+
+### 🏅 **CodeChef Journey**
+[![CodeChef Profile](https://cp-logo.vercel.app/codechef/prathameshjadh?logo=true)](https://www.codechef.com/users/prathameshjadh)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚡ **Codeforces Rating**
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=JadhavPrath&theme=dark)](https://codeforces.com/profile/JadhavPrath)
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 **Problem Solving Skills**
+<img src="https://img.shields.io/badge/DSA-Intermediate-blue?style=for-the-badge&logo=algorithm&logoColor=white" alt="DSA Level"/>
+<br><br>
+<img src="https://img.shields.io/badge/Problems%20Solved-500+-green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Problems Solved"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ **Technology Stack**
+
+<div align="center">
+
+### **Core Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" title="JavaScript"/>
@@ -69,7 +110,7 @@ const prathamesh = {
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++"/>
 </p>
 
-### **Frontend Technologies**
+### **Frontend Development**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js"/>
@@ -79,7 +120,7 @@ const prathamesh = {
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap"/>
 </p>
 
-### **Backend & Framework**
+### **Backend & Frameworks**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" title="Spring Framework"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" title="Spring Boot"/>
@@ -87,14 +128,14 @@ const prathamesh = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate" title="Hibernate"/>
 </p>
 
-### **Databases & Cloud**
+### **Database & Cloud Services**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase"/>
 </p>
 
-### **Tools & DevOps**
+### **Development Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" title="Maven"/>
@@ -107,53 +148,25 @@ const prathamesh = {
 
 ---
 
-<div align="center">
-
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Statistics**
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-2005&theme=radical&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&layout=compact&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathamesh-2005&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-2005&theme=radical&hide_border=true" />
 
 </div>
-
----
-
-## 🏆 **GitHub Trophies**
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prathamesh-2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&layout=compact&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathamesh-2005&theme=radical" />
 
 </div>
 
 ---
 
-## 🎯 **Coding Profiles**
-
-<div align="center">
-
-### 🟡 **LeetCode**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prathameshjadh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/prathameshjadh/)
-
-### 🟤 **CodeChef**
-[![CodeChef Profile](https://cp-logo.vercel.app/codechef/prathameshjadh?logo=true)](https://www.codechef.com/users/prathameshjadh)
-
-### 🔵 **Codeforces**
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=JadhavPrath&theme=dark)](https://codeforces.com/profile/JadhavPrath)
-
-### 🟢 **HackerRank**
-[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Multiple%20Certifications-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jadhavprathame16)
-
-</div>
-
----
-
-## 📈 **Contribution Graph**
+## 📈 **Contribution Activity**
 
 <div align="center">
   
@@ -165,29 +178,10 @@ const prathamesh = {
 
 <div align="center">
 
-## 🌟 **Fun Facts**
-
-<table>
-  <tr>
-    <td><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></td>
-    <td><strong>Code Editor:</strong> VS Code & IntelliJ IDEA</td>
-  </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></td>
-    <td><strong>Favorite Language:</strong> Java & JavaScript</td>
-  </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"></td>
-    <td><strong>Currently Learning:</strong> System Design & Microservices</td>
-  </tr>
-</table>
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
-  
-### 💫 **"Code is like humor. When you have to explain it, it's bad."** 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 
-**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+### 💫 **"Code is poetry written in logic"** 
+
+**Thanks for visiting! Let's build something extraordinary together! 🚀**
 
 </div>
