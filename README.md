@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Prathamesh Sahebrav Jadhav**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm **Prathamesh Sahebrav Jadhav** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### 🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast
 
@@ -14,7 +14,7 @@
 
 <img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="350" height="250" />
 
-## 🎯 **About Me**
+## 🎯 **About Me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/>
 
 ```javascript
 const prathamesh = {
@@ -41,7 +41,7 @@ const prathamesh = {
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 **Connect With Me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px"/>
 
 <div align="center">
 
@@ -57,7 +57,7 @@ const prathamesh = {
 
 ---
 
-## 💻 **Competitive Programming Journey**
+## 💻 **Competitive Programming Journey** <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50px"/>
 
 <div align="center">
 
@@ -106,11 +106,11 @@ const prathamesh = {
 
 ---
 
-## 🛠️ **Technology Stack**
+## 🛠️ **Technology Stack** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
 
 <div align="center">
 
-### **Core Languages**
+### **Core Languages** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" title="JavaScript"/>
@@ -118,7 +118,7 @@ const prathamesh = {
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++"/>
 </p>
 
-### **Frontend Development**
+### **Frontend Development** <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25px"/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js"/>
@@ -128,7 +128,7 @@ const prathamesh = {
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap"/>
 </p>
 
-### **Backend & Frameworks**
+### **Backend & Frameworks** <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25px"/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" title="Spring Framework"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" title="Spring Boot"/>
@@ -136,14 +136,14 @@ const prathamesh = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate" title="Hibernate"/>
 </p>
 
-### **Database & Cloud Services**
+### **Database & Cloud Services** <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="25px"/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase"/>
 </p>
 
-### **Development Tools**
+### **Development Tools** <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" title="Maven"/>
@@ -156,7 +156,7 @@ const prathamesh = {
 
 ---
 
-## 📊 **GitHub Statistics**
+## 📊 **GitHub Statistics** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
 
 <div align="center">
   
@@ -174,7 +174,7 @@ const prathamesh = {
 
 ---
 
-## 📈 **Contribution Activity**
+## 📈 **Contribution Activity** <img src="https://media.giphy.com/media/cIn5fTcjsG5nq2KcmB/giphy.gif" width="35px"/>
 
 <div align="center">
   
@@ -188,8 +188,8 @@ const prathamesh = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 
-### 💫 **"Code is poetry written in logic"** 
+### 💫 **"Code is poetry written in logic"** <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50px"/>
 
-**Thanks for visiting! Let's build something extraordinary together! 🚀**
+**Thanks for visiting! Let's build something extraordinary together!** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"/>
 
 </div>
