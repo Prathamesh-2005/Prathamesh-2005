@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="250" />
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="350" height="250" />
 
 ## 🎯 **About Me**
 
@@ -71,14 +71,16 @@ const prathamesh = {
 </td>
 <td align="center" width="50%">
 
-### 🏅 **CodeChef Journey**
+### 🏅 **CodeChef Profile**
 <a href="https://www.codechef.com/users/prathameshjadh" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+<img src="https://img.shields.io/badge/CodeChef-prathameshjadh-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
 </a>
 <br><br>
-<img src="https://img.shields.io/badge/Rating-Updated%20Weekly-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
+<img src="https://img.shields.io/badge/Current%20Rating-1411-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
 <br>
-<img src="https://img.shields.io/badge/Contests-Participated-blue?style=for-the-badge&logo=trophy&logoColor=white" alt="Contest Participation"/>
+<img src="https://img.shields.io/badge/Stars-2⭐-yellow?style=for-the-badge&logo=star&logoColor=white" alt="CodeChef Stars"/>
+<br>
+<img src="https://img.shields.io/badge/Contests-27%20Participated-blue?style=for-the-badge&logo=trophy&logoColor=white" alt="Contest Participation"/>
 
 </td>
 </tr>
