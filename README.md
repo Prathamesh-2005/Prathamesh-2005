@@ -110,7 +110,7 @@ const prathamesh = {
 ### 🎯 **Problem Solving Skills**
 <img src="https://img.shields.io/badge/DSA-Intermediate-blue?style=for-the-badge&logo=algorithm&logoColor=white" alt="DSA Level"/>
 <br><br>
-<img src="https://img.shields.io/badge/Problems%20Solved-500+-green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Problems Solved"/>
+<img src="https://img.shields.io/badge/Problems%20Solved-600+-green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Problems Solved"/>
 
 </td>
 </tr>
