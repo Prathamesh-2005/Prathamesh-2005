@@ -160,9 +160,9 @@ const prathamesh = {
 
 ### **AI & Vector Databases** <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25px"/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/wordmark.png" width="120" height="48" alt="LangChain" title="LangChain"/>
-  <img src="https://avatars.githubusercontent.com/u/100204725?s=200&v=4" width="48" height="48" alt="Chroma DB" title="Chroma DB"/>
-  <img src="https://avatars.githubusercontent.com/u/72677393?s=200&v=4" width="48" height="48" alt="Pinecone DB" title="Pinecone DB"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" title="LangChain"/>
+  <img src="https://img.shields.io/badge/Chroma%20DB-FF6B35?style=for-the-badge&logo=database&logoColor=white" alt="Chroma DB" title="Chroma DB"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone DB" title="Pinecone DB"/>
 </p>
 
 ### **Development Tools** <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"/>
