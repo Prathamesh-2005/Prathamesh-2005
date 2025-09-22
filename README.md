@@ -13,7 +13,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm **Prathamesh Sahebrav Jadhav** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### 🚀 Full Stack JAVA Developer | Problem Solver | Open Source Enthusiast
+### 🚀 Full Stack JAVA Developer | Problem Solver | Spring MicroServices
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Always+learning+new+technologies;Open+to+collaboration!" alt="Typing SVG" />
 
