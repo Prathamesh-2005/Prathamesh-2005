@@ -27,26 +27,45 @@
 
 ## 🎯 **About Me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/>
 
-```javascript
-const prathamesh = {
-    code: ["Java", "JavaScript", "Python", "C++"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
-        backEnd: ["Spring Boot", "Spring Framework", "Node.js"],
-        databases: ["MySQL", "PostgreSQL", "Supabase"],
-        caching: ["Redis"],
-        vectorDatabases: ["Chroma DB", "Pinecone DB"],
-        aiFrameworks: ["LangChain"],
-        tools: ["Git", "Maven", "Postman", "Hibernate"]
-    },
-    currentFocus: "Building scalable web applications",
-    challenge: "Contributing more to open source projects",
-    portfolio: "https://prathameshjadhavportfolio.vercel.app/"
+```java
+@Data
+@Builder
+public class Prathamesh {
+    
+    private List<String> code = Arrays.asList("Java", "JavaScript", "Python", "C++");
+    
+    @Embedded
+    private Technologies technologies = Technologies.builder()
+            .frontEnd(Arrays.asList("React", "Next.js", "HTML5", "CSS3", "Bootstrap", "Tailwind"))
+            .backEnd(Arrays.asList("Spring Boot", "Spring Framework", "Node.js"))
+            .databases(Arrays.asList("MySQL", "PostgreSQL", "Supabase"))
+            .caching(Arrays.asList("Redis"))
+            .vectorDatabases(Arrays.asList("Chroma DB", "Pinecone DB"))
+            .aiFrameworks(Arrays.asList("LangChain"))
+            .tools(Arrays.asList("Git", "Maven", "Postman", "Hibernate"))
+            .build();
+    
+    private String currentFocus = "Building scalable web applications";
+    private String challenge = "Contributing more to open source projects";
+    private String portfolio = "https://prathameshjadhavportfolio.vercel.app/";
+}
+
+@Data
+@Builder
+@Embeddable
+class Technologies {
+    private List<String> frontEnd;
+    private List<String> backEnd;
+    private List<String> databases;
+    private List<String> caching;
+    private List<String> vectorDatabases;
+    private List<String> aiFrameworks;
+    private List<String> tools;
 }
 ```
 
 - 🌱 I'm currently learning more about **Full Stack Development, Open Source, and Data Structures and Algorithms.**
-- 👯 I'm looking to collaborate on **Projects based on React,Nextjs  and Java.**
+- 👯 I'm looking to collaborate on **Projects based on React, Nextjs and Java.**
 - 🏆 Goal: **Contribute more to open-source projects.**
 - 💬 Ask me about **Frontend Development, DSA, Java Full Stack Development, Spring Framework, Spring Boot**
 - 📫 How to reach me: **prathamesh.jadhav-0198@gmail.com**
