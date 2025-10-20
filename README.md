@@ -94,46 +94,8 @@ class Technologies {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
 ### 🔥 **LeetCode Progress**
 [![LeetCode Stats](https://leetcard.jacoblin.cool/prathameshjadh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/prathameshjadh/)
-
-</td>
-<td align="center" width="50%">
-
-### 🏅 **CodeChef Profile**
-<a href="https://www.codechef.com/users/prathameshjadh" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-prathameshjadh-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
-</a>
-<br><br>
-<img src="https://img.shields.io/badge/Current%20Rating-1411-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
-<br>
-<img src="https://img.shields.io/badge/Stars-2⭐-yellow?style=for-the-badge&logo=star&logoColor=white" alt="CodeChef Stars"/>
-<br>
-<img src="https://img.shields.io/badge/Contests-27%20Participated-blue?style=for-the-badge&logo=trophy&logoColor=white" alt="Contest Participation"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### ⚡ **Codeforces Rating**
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=JadhavPrath&theme=dark)](https://codeforces.com/profile/JadhavPrath)
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 **Problem Solving Skills**
-<img src="https://img.shields.io/badge/DSA-Intermediate-blue?style=for-the-badge&logo=algorithm&logoColor=white" alt="DSA Level"/>
-<br><br>
-<img src="https://img.shields.io/badge/Problems%20Solved-600+-green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Problems Solved"/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
