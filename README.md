@@ -47,7 +47,7 @@ public class Prathamesh {
     
     private String currentFocus = "Building scalable web applications";
     private String challenge = "Contributing more to open source projects";
-    private String portfolio = "https://prathameshjadhavportfolio.vercel.app/";
+    private String portfolio = "https://prathameshme.vercel.app/";
 }
 
 @Data
@@ -78,7 +78,7 @@ class Technologies {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://prathameshjadhavportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://prathameshme.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-jadhav-3a13b3285/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prathameshjadh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prathameshjadh/)
