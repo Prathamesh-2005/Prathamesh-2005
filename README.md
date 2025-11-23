@@ -69,7 +69,7 @@ class Technologies {
 - 🏆 Goal: **Contribute more to open-source projects.**
 - 💬 Ask me about **Frontend Development, DSA, Java Full Stack Development, Spring Framework, Spring Boot**
 - 📫 How to reach me: **prathamesh.jadhav-0198@gmail.com**
-- 🌐 Check out my portfolio: **[prathameshjadhavportfolio.vercel.app](https://prathameshjadhavportfolio.vercel.app/)**
+- 🌐 Check out my portfolio: **[Portfolio](https://prathameshme.vercel.app/)**
 - ⚡ **Would love to connect with like-minded people.**
 
 ---
