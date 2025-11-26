@@ -1,16 +1,16 @@
 <div align="center">
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ███╗███████╗  ║
-║   ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗ ████║██╔════╝  ║
-║   ██████╔╝██████╔╝███████║   ██║   ███████║███████║██╔████╔██║█████╗    ║
-║   ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝    ║
-║   ██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗  ║
-║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝  ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║  ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ███╗███████╗║
+║  ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗ ████║██╔════╝║
+║  ██████╔╝██████╔╝███████║   ██║   ███████║███████║██╔████╔██║█████╗  ║
+║  ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ║
+║  ██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗║
+║  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Java+Developer+%F0%9F%9A%80;Crafting+Scalable+Microservices+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -177,7 +177,7 @@ public class Developer {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Prathamesh-2005&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Contribution Stats"/>
 
 </div>
@@ -188,6 +188,8 @@ public class Developer {
 
 ## 📈 **CONTRIBUTION GRAPH**
 
+<img src="https://komarev.com/ghpvc/?username=Prathamesh-2005&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-2005&custom_title=Prathamesh's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area_color=7C3AED&title_color=00D9FF&area=true&hide_border=true)
 
 </div>
@@ -195,8 +197,6 @@ public class Developer {
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Prathamesh-2005&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 
 ### 🌟 **Thanks for stopping by! Feel free to reach out.**
 
