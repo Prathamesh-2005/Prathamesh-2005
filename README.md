@@ -17,7 +17,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Always+learning+new+technologies;Open+to+collaboration!" alt="Typing SVG" />
 
-![Profile views](https://komarev.com/ghpvc/?username=Prathamesh-2005&label=Profile%20Views&color=00d9ff&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Prathamesh-2005&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
 
 </div>
 
