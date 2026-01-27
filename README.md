@@ -1,10 +1,10 @@
-# Prathamesh Sahebrav Jadhav
-
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Cat Coding GIF"/>
-</div>
+  
+# Prathamesh Sahebrav Jadhav <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" align="right"/>
 
 **Full Stack Java Developer** | Spring Boot · Microservices · React · Next.js
+
+</div>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-prathameshjadhav.me-6366f1?style=flat-square)](https://www.prathameshjadhav.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prathamesh-jadhav-3a13b3285/)
