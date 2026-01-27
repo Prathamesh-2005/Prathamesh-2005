@@ -1,5 +1,9 @@
 # Prathamesh Sahebrav Jadhav
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="Coding GIF"/>
+</div>
+
 **Full Stack Java Developer** | Spring Boot · Microservices · React · Next.js
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-prathameshjadhav.me-6366f1?style=flat-square)](https://www.prathameshjadhav.me/)
@@ -58,13 +62,17 @@ I'm a Full Stack Java Developer specializing in building scalable, production-re
 
 ---
 
-## 💼 What I Bring to the Table
+## 💻 Competitive Programming
 
-✅ **Production-Ready Code** – Writing maintainable, well-documented code following industry best practices  
-✅ **Problem Solving** – Strong foundation in Data Structures & Algorithms with active competitive programming  
-✅ **Full Stack Expertise** – End-to-end development from database design to deployment  
-✅ **Fast Learner** – Quick to adapt to new technologies and frameworks  
-✅ **Team Player** – Experience collaborating on cross-functional projects
+### 🔥 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/prathameshjadh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/prathameshjadh/)
+
+**Practice Profiles:**  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prathameshjadh/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prathameshjadh)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/JadhavPrath)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/prathameshj2vvb/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jadhavprathame16)
 
 ---
 
@@ -75,9 +83,6 @@ I'm always interested in discussing new opportunities, collaborating on projects
 **Preferred Contact:** [prathamesh.jadhav-0198@gmail.com](mailto:prathamesh.jadhav-0198@gmail.com)
 
 **Portfolio:** [prathameshjadhav.me](https://www.prathameshjadhav.me/)
-
-**Competitive Programming Profiles:**  
-[LeetCode](https://leetcode.com/u/prathameshjadh/) · [CodeChef](https://www.codechef.com/users/prathameshjadh) · [Codeforces](https://codeforces.com/profile/JadhavPrath) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/prathameshj2vvb/)
 
 ---
 
