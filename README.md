@@ -1,7 +1,7 @@
 # Prathamesh Sahebrav Jadhav
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Cat Coding GIF"/>
 </div>
 
 **Full Stack Java Developer** | Spring Boot · Microservices · React · Next.js
