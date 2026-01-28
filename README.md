@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-prathameshjadhav.me-6366f1?style=flat-square)](https://www.prathameshjadhav.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prathamesh-jadhav-3a13b3285/)
-[![Email](https://img.shields.io/badge/Email-prathamesh.jadhav--0198%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prathamesh.jadhav-0198@gmail.com)
+[![Email](https://img.shields.io/badge/Email-prathameshjadhav--0198%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prathameshjadhav0198@gmail.com)
 
 ---
 
@@ -80,7 +80,7 @@ I'm a Full Stack Java Developer specializing in building scalable, production-re
 
 I'm always interested in discussing new opportunities, collaborating on projects, or helping with technical challenges.
 
-**Preferred Contact:** [prathamesh.jadhav-0198@gmail.com](mailto:prathamesh.jadhav-0198@gmail.com)
+**Preferred Contact:** [prathameshjadhav0198@gmail.com](mailto:prathameshjadhav0198@gmail.com)
 
 **Portfolio:** [prathameshjadhav.me](https://www.prathameshjadhav.me/)
 
