@@ -14,6 +14,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="coding" width="330" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"/>
+
 I'm a Full Stack Java Developer specializing in building scalable, production-ready web applications. I focus on clean architecture, microservices design, and creating seamless user experiences.
 
 **Currently:** Building enterprise-grade applications with Spring Boot and modern frontend frameworks  
@@ -97,6 +99,12 @@ I'm always interested in discussing new opportunities, collaborating on projects
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://ghchart.rshah.org/2DBA4E/Prathamesh-2005" alt="Prathamesh's GitHub Contribution Graph" />
 
 ---
 
