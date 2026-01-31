@@ -91,9 +91,9 @@ I'm always interested in discussing new opportunities, collaborating on projects
 ## 📊 GitHub Activity
 
 <div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
 
 ---
 
