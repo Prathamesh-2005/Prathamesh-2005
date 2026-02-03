@@ -1,10 +1,7 @@
-<div align="center">
-  
-# Prathamesh Sahebrav Jadhav <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" align="right"/>
+# Prathamesh Sahebrav Jadhav
+**Full Stack Java Developer** | Spring Boot · Microservices · React 
 
-**Full Stack Java Developer** | Spring Boot · Microservices · React · Next.js
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Prathamesh-2005&color=6366f1&style=flat-square&label=Profile+Views)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-prathameshjadhav.me-6366f1?style=flat-square)](https://www.prathameshjadhav.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prathamesh-jadhav-3a13b3285/)
@@ -13,8 +10,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-<img align="right" alt="coding" width="330" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"/>
 
 I'm a Full Stack Java Developer specializing in building scalable, production-ready web applications. I focus on clean architecture, microservices design, and creating seamless user experiences.
 
@@ -80,29 +75,32 @@ I'm a Full Stack Java Developer specializing in building scalable, production-re
 
 I'm always interested in discussing new opportunities, collaborating on projects, or helping with technical challenges.
 
-**Preferred Contact:** [prathameshjadhav0198@gmail.com](mailto:prathameshjadhav0198@gmail.com)
-
+**Preferred Contact:** [prathameshjadhav0198@gmail.com](mailto:prathameshjadhav0198@gmail.com)  
 **Portfolio:** [prathameshjadhav.me](https://www.prathameshjadhav.me/)
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://ghchart.rshah.org/2DBA4E/Prathamesh-2005" alt="Prathamesh's GitHub Contribution Graph" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-2005&theme=tokyo-night&hide_border=true)
+
+---
+
+### Open to opportunities · Available for freelance work · Let's build something great together
 
 ---
 
 <div align="center">
-
-### Open to opportunities · Available for freelance work · Let's build something great together
+  
+**Thank you for visiting my profile!** ⭐️  
+*Feel free to explore my repositories and don't hesitate to reach out.*
 
 </div>
