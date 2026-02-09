@@ -82,9 +82,12 @@ I'm always interested in discussing new opportunities, collaborating on projects
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
