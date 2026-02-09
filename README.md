@@ -88,9 +88,12 @@ I'm always interested in discussing new opportunities, collaborating on projects
 
 ---
 
-## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-2005&theme=tokyo-night&hide_border=true)
+## 🎮 GitHub Activity
+
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
 
 ---
 
@@ -104,3 +107,4 @@ I'm always interested in discussing new opportunities, collaborating on projects
 *Feel free to explore my repositories and don't hesitate to reach out.*
 
 </div>
+
