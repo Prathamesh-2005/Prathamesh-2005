@@ -60,7 +60,7 @@ I'm a Full Stack Java Developer specializing in building scalable, production-re
 ## 💻 Competitive Programming
 
 ### 🔥 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prathameshjadh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Heisenberg_2005/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Heisenberg_2005?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Heisenberg_2005/)
 
 **Practice Profiles:**  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Heisenberg_2005/)
